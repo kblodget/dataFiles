@@ -1,0 +1,83 @@
+{
+  "details" : [
+    {
+      "detailId": 1,
+      "fields": [
+        {
+          "level": {
+            "role": "programmer",
+            "share": true
+          }
+          "type": "UPDATE_DATE",
+          "value": "Fri, 02 Feb 2020 03:04:05",
+          "url":
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+
+        },
+        {
+          "level": {
+            "role": "programmer",
+            "share": true
+          }
+          "type": "STATUS",
+          "value": "OK",
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+        }
+      ],
+      "date": "Fri, 19 Jun 2020 19:38:17",
+    },
+    {
+      "detailId": 1,
+      "fields": [
+        {
+          "level": {
+            "role": "programmer",
+            "share": false
+          }
+          "type": "BEGIN_DATE",
+          "value": "Fri, 02 Jun 2020 03:04:05",
+          "url":
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+
+        },
+        {
+          "level": {
+            "role": "programmer",
+            "share": true
+          }
+          "type": "LANGUAGE",
+          "value": "Java Script",
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+        }
+      ],
+      "date": "Fri, 12 Jun 2020 19:38:17",
+    },
+    {
+      "detailId": 1,
+      "fields": [
+        {
+          "level": {
+            "role": "programmer",
+            "share": false
+          }
+          "type": "QUESTIONS",
+          "value": "What is the meaning of life",
+          "url":
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+
+        },
+        {
+          "level": {
+            "role": "programmer",
+            "share": false
+          }
+          "type": "COMPANY",
+          "value": "Demo Technologies1",
+          "url": "https://raw.githubusercontent.com/smartdev007/Avengers-Quote/master/quotes.json"
+        }
+      ],
+      "date": "Wed, 10 Jun 2020 15:08:17",
+    }
+
+  ]
+}
